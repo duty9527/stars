@@ -605,7 +605,7 @@
 * [chai2010/llmgo-book](https://github.com/chai2010/llmgo-book) -  :books: Go和大语言模型编程
 * [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 * [circled-me/server](https://github.com/circled-me/server) - Video Calls, Chat, Photo and Sharing Community Server
-* [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
+* [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 * [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 * [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 * [lifei6671/DouYinBot](https://github.com/lifei6671/DouYinBot) - 该项目仅自用，不提供抖音视频下载
