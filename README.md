@@ -10,9 +10,10 @@
 
 ## Table of Contents
 
+* [CSS](#css)
+* [TypeScript](#typescript)
 * [Kotlin](#kotlin)
 * [Swift](#swift)
-* [TypeScript](#typescript)
 * [C++](#c)
 * [C](#c-1)
 * [miscellaneous](#miscellaneous)
@@ -53,7 +54,6 @@
 * [Perl](#perl)
 * [Vim Script](#vim-script)
 * [Visual Basic .NET](#visual-basic-net)
-* [CSS](#css)
 * [Crystal](#crystal)
 * [Nim](#nim)
 * [Vim script](#vim-script-1)
@@ -65,99 +65,18 @@
 * [V](#v)
 * [Thanks](#thanks)
 
-## Kotlin
+## CSS
 
-* [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
-* [theovilardo/PixelPlay](https://github.com/theovilardo/PixelPlay) -
-* [FoedusProgramme/Omni](https://github.com/FoedusProgramme/Omni) - A useful and handy android minimalist toolbox.
-* [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc.
-* [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-* [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
-* [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-* [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
-* [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
-* [Kin69/EasyNotes](https://github.com/Kin69/EasyNotes) - EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.
-* [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
-* [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
-* [queuejw/LumetroLauncher](https://github.com/queuejw/LumetroLauncher) - Simple and fast Windows Phone 8-style launcher for Android (experimental, unstable)
-* [simonediberardino/DIB-Car-Launcher-Android](https://github.com/simonediberardino/DIB-Car-Launcher-Android) - Android launcher designed to be installed in the modern android car radios.
-* [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
-* [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-* [pyamsoft/tetherfi](https://github.com/pyamsoft/tetherfi) - TetherFi - Internet sharing without Root
-* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-* [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-* [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-* [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-* [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
-* [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
-* [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-* [0x4f53/Wristkey](https://github.com/0x4f53/Wristkey) - A free and open-source 2FA app for smartwatches.
-* [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-* [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-* [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-* [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-* [mslalith/focus\_launcher](https://github.com/mslalith/focus_launcher) - A minimalist Android Launcher built with Jetpack Compose.
-* [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
-* [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
-* [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
-* [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
-* [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-* [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
-* [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-* [kaungkhantjc/linker](https://github.com/kaungkhantjc/linker) - Linker is an open source, simple deep link launcher app.
-* [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
-* [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
-* [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
-* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-* [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-* [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
-* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-## Swift
-
-* [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
-* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-* [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-* [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-* [musamatini/WarpKey](https://github.com/musamatini/WarpKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
-* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
-* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
-* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
-* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
-* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
-* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
-* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
-* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
-* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
-* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
-* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
-* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-* [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
-* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
-* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
-* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+* [zorrozou/zorrozou.github.io](https://github.com/zorrozou/zorrozou.github.io) -
+* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
+* [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+* [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+* [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 
 ## TypeScript
 
+* [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 * [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
 * [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -270,7 +189,97 @@
 * [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 * [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
-* [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
+
+## Kotlin
+
+* [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
+* [theovilardo/PixelPlay](https://github.com/theovilardo/PixelPlay) -
+* [FoedusProgramme/Omni](https://github.com/FoedusProgramme/Omni) - A useful and handy android minimalist toolbox.
+* [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc.
+* [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+* [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
+* [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+* [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
+* [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+* [Kin69/EasyNotes](https://github.com/Kin69/EasyNotes) - EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.
+* [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
+* [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
+* [queuejw/LumetroLauncher](https://github.com/queuejw/LumetroLauncher) - Simple and fast Windows Phone 8-style launcher for Android (experimental, unstable)
+* [simonediberardino/DIB-Car-Launcher-Android](https://github.com/simonediberardino/DIB-Car-Launcher-Android) - Android launcher designed to be installed in the modern android car radios.
+* [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
+* [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+* [pyamsoft/tetherfi](https://github.com/pyamsoft/tetherfi) - TetherFi - Internet sharing without Root
+* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+* [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+* [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development
+* [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+* [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
+* [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
+* [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+* [0x4f53/Wristkey](https://github.com/0x4f53/Wristkey) - A free and open-source 2FA app for smartwatches.
+* [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+* [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+* [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+* [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
+* [mslalith/focus\_launcher](https://github.com/mslalith/focus_launcher) - A minimalist Android Launcher built with Jetpack Compose.
+* [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+* [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
+* [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
+* [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
+* [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+* [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+* [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+* [kaungkhantjc/linker](https://github.com/kaungkhantjc/linker) - Linker is an open source, simple deep link launcher app.
+* [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+* [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+* [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+* [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+* [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+## Swift
+
+* [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
+* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+* [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+* [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+* [musamatini/WarpKey](https://github.com/musamatini/WarpKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
+* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
+* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
+* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
+* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
+* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
+* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
+* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
+* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
+* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
+* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
+* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+* [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
+* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
+* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
+* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## C++
 
@@ -490,7 +499,7 @@
 
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [mhdawson/ai-tool-experimentation](https://github.com/mhdawson/ai-tool-experimentation) -
-* [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+* [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 * [naxiaoduo/TwitDloader-Extension](https://github.com/naxiaoduo/TwitDloader-Extension) - TwitDloader 是一个浏览器扩展，允许用户一键下载 Twitter/X 平台的高清视频，支持多种视频分辨率选择。该扩展还支持多语言界面，提供简洁直观的操作体验，并允许用户自定义界面主题颜色。
 * [ZFC-Digital/puppeteer-real-browser](https://github.com/ZFC-Digital/puppeteer-real-browser) - This package is designed to bypass puppeteer's bot-detecting captchas such as Cloudflare. It acts like a real browser and can be managed with puppeteer.
 * [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
@@ -966,7 +975,6 @@
 * [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 * [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-* [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 
 ## Roff
 
@@ -1477,14 +1485,6 @@
 ## Visual Basic .NET
 
 * [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-
-## CSS
-
-* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
-* [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-* [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-* [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
-* [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 
 ## Crystal
 
