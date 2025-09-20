@@ -1148,7 +1148,7 @@
 * [djhohnstein/SharpChromium](https://github.com/djhohnstein/SharpChromium) - .NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.
 * [harleyQu1nn/AggressorScripts](https://github.com/harleyQu1nn/AggressorScripts) - Collection of Aggressor scripts for Cobalt Strike 3.0+ pulled from multiple sources
 * [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
-* [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+* [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 * [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 * [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 * [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
