@@ -301,7 +301,7 @@
 * [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 * [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 * [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
-* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 * [fltk/fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 * [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 * [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -1233,7 +1233,7 @@
 
 ## Rust
 
-* [mortdeus/solana-copy-sniper-mev-trading-bot](https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot) - High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydium swap bot, pumpswap auto Volume, Maker bot, 0xblock, best 0 block
+* [mortdeus/solana-copy-sniper-mev-trading-bot](https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot) - 🆓Free High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydium swap bot, pumpswap auto Volume, Maker bot, 0xblock, best 0 block solana trading bot solana trading bot solana trading bot solana trading bot
 * [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
 * [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC
 * [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
