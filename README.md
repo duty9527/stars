@@ -152,7 +152,7 @@
 * [unit-mesh/autodev-vscode](https://github.com/unit-mesh/autodev-vscode) - AutoDev -  🧙‍the AI-powered coding wizard . Put the most loved AutoDev AI assistant into your VSCode, and have things done quickly
 * [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -
 * [cloudflare/openai-workers-relay](https://github.com/cloudflare/openai-workers-relay) - A relay server for OpenAI's realtime API, for Cloudflare Workers
-* [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress is a free blog and CMS system developed using Next.js and AntDesign.（ReactPress是一个基于Next.js+Antd5.0的博客\&CMS系统）Demo：https://blog.gaoredu.com
+* [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress-Modern Full-Stack Publishing Platform Built with React, Next.js, and NestJS（基于 React、Next.js 和 NestJS 构建的现代化全栈发布平台）。Demo：https://blog.gaoredu.com
 * [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 * [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 * [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -833,7 +833,7 @@
 * [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 * [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [amidaware/rmmagent](https://github.com/amidaware/rmmagent) - Tactical RMM Agent
-* [byzze/handy-translate](https://github.com/byzze/handy-translate) - 基于wails使用Go+React开发，这是一个简单-便捷的翻译工具>>This is a simple and convenient translation tool.
+* [kern923/handy-translate](https://github.com/kern923/handy-translate) - 基于wails使用Go+React开发，这是一个简单-便捷的翻译工具>>This is a simple and convenient translation tool.
 * [0xrawsec/gene](https://github.com/0xrawsec/gene) - Signature engine for all your logs
 * [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 * [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
