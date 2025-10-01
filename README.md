@@ -489,6 +489,7 @@
 * [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
 * [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
+* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## Swift
 
@@ -804,7 +805,6 @@
 * [tdragon6/Supershell](https://github.com/tdragon6/Supershell) - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 * [cssmagic/Awesome-AI](https://github.com/cssmagic/Awesome-AI) - 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。
 * [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-* [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 * [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [rosedblabs/rust-learning](https://github.com/rosedblabs/rust-learning) - (Chinese) 收集一些不错的 Rust 学习资料、博客、书籍等
 * [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
@@ -945,7 +945,7 @@
 
 ## Shell
 
-* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26 beta
+* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta
 * [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 * [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
 * [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
@@ -1233,7 +1233,6 @@
 
 ## Rust
 
-* [mortdeus/solana-copy-sniper-mev-trading-bot](https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot) - 🆓Free High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydium swap bot, pumpswap auto Volume, Maker bot, 0xblock, best 0 block solana trading bot solana trading bot solana trading bot solana trading bot
 * [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
 * [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC
 * [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
@@ -1355,7 +1354,7 @@
 * [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
 * [microsoft/PSToolset](https://github.com/microsoft/PSToolset) - Set of tools for Powershell environment
 * [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
-* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 * [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
@@ -1435,6 +1434,7 @@
 ## Lua
 
 * [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
 ## MDX
 
