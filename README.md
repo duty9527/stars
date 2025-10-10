@@ -451,7 +451,6 @@
 * [AllenDang/w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
 * [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
 * [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
-* [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 * [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
@@ -504,7 +503,7 @@
 * [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 * [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [amidaware/rmmagent](https://github.com/amidaware/rmmagent) - Tactical RMM Agent
-* [kern923/handy-translate](https://github.com/kern923/handy-translate) - 基于wails使用Go+React开发，这是一个简单-便捷的翻译工具>>This is a simple and convenient translation tool.
+* [byzze/handy-translate](https://github.com/byzze/handy-translate) - 基于wails使用Go+React开发，这是一个简单-便捷的翻译工具>>This is a simple and convenient translation tool.
 * [0xrawsec/gene](https://github.com/0xrawsec/gene) - Signature engine for all your logs
 * [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 * [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
@@ -643,6 +642,7 @@
 * [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
 * [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
+* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## Swift
 
@@ -983,7 +983,7 @@
 * [aplyc1a/blogs](https://github.com/aplyc1a/blogs) - PentestNotes
 * [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 * [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
 * [community/OSPO](https://github.com/community/OSPO) - Open Source Program Office
 * [guchangan1/All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。
 * [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
