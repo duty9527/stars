@@ -1026,6 +1026,7 @@
 
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [mhdawson/ai-tool-experimentation](https://github.com/mhdawson/ai-tool-experimentation) -
+* [VonChange/utao](https://github.com/VonChange/utao) - 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 * [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 * [naxiaoduo/TwitDloader-Extension](https://github.com/naxiaoduo/TwitDloader-Extension) - TwitDloader 是一个浏览器扩展，允许用户一键下载 Twitter/X 平台的高清视频，支持多种视频分辨率选择。该扩展还支持多语言界面，提供简洁直观的操作体验，并允许用户自定义界面主题颜色。
 * [ZFC-Digital/puppeteer-real-browser](https://github.com/ZFC-Digital/puppeteer-real-browser) - This package is designed to bypass puppeteer's bot-detecting captchas such as Cloudflare. It acts like a real browser and can be managed with puppeteer.
@@ -1205,7 +1206,6 @@
 
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 * [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-* [VonChange/utao](https://github.com/VonChange/utao) - 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 * [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 * [KreitinnSoftware/MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
