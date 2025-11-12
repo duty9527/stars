@@ -75,6 +75,7 @@
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 * [UfukUstali/go-pty](https://github.com/UfukUstali/go-pty) - Terminal pty lib inspired by portable-pty
 * [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
+* [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 * [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool functions.
 * [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -437,7 +438,6 @@
 ## TypeScript
 
 * [vsme/chinese-days](https://github.com/vsme/chinese-days) - 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。
-* [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 * [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 * [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -484,7 +484,7 @@
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 * [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 * [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把喜欢的微博转为 RSS 订阅源
-* [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站(https://exporter.wxdown.online) 使用，同时也支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
+* [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站(https://down.mptext.top) 使用，同时也支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 * [work7z/MDGJX](https://github.com/work7z/MDGJX) - 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！
 * [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
@@ -1454,7 +1454,7 @@
 ## Batchfile
 
 * [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
-* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 * [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
 
 ## Typst
