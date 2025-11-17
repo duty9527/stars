@@ -765,7 +765,7 @@
 
 ## Kotlin
 
-* [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods libreated from Apple's ecosystem.
+* [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 * [kid1412621/SummaryExpressive](https://github.com/kid1412621/SummaryExpressive) - A modern, BYOK and FOSS android app to summarize videos(YouTube, BiliBili), articles, images and documents with AI/LLM
 * [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) -
 * [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
