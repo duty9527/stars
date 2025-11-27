@@ -752,7 +752,7 @@
 * [jumpserver/luna](https://github.com/jumpserver/luna) - Luna is the JumpServer Web Terminal.
 * [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 * [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-* [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub) -
 * [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 * [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 * [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -799,7 +799,7 @@
 * [Xposed-Modules-Repo/me.hd.wauxv](https://github.com/Xposed-Modules-Repo/me.hd.wauxv) - WAuxiliary
 * [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-* [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
+* [0pandadev/awesome-windows](https://github.com/0pandadev/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
 * [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 * [evmn/Mind-Hacks](https://github.com/evmn/Mind-Hacks) -  刘未鹏 | Mind Hacks 思维改变生活
 * [OffiC2R/Office-C2R-Installer](https://github.com/OffiC2R/Office-C2R-Installer) - Get Office and activate it
