@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
 * [Go](#go)
@@ -22,7 +23,6 @@
 * [C](#c)
 * [Assembly](#assembly)
 * [Dart](#dart)
-* [Python](#python)
 * [HTML](#html)
 * [CSS](#css)
 * [C++](#c-1)
@@ -67,13 +67,171 @@
 * [V](#v)
 * [Thanks](#thanks)
 
+## Python
+
+* [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) -
+* [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
+* [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
+* [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
+* [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
+* [rsanshierli/EasyBert](https://github.com/rsanshierli/EasyBert) - 基于Pytorch的Bert应用，包括命名实体识别、情感分析、文本分类以及文本相似度等
+* [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
+* [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+* [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
+* [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
+* [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
+* [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+* [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+* [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
+* [NewAITees/ollama-MCP-server](https://github.com/NewAITees/ollama-MCP-server) -
+* [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
+* [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
+* [qiufengqijun/mini\_qwen](https://github.com/qiufengqijun/mini_qwen) - 这是一个从头训练大语言模型的项目，包括预训练、微调和直接偏好优化，模型拥有1B参数，支持中英文。
+* [ericzakariasson/uber-eats-mcp-server](https://github.com/ericzakariasson/uber-eats-mcp-server) -
+* [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - Knowledge Graph Generation from Any Text
+* [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
+* [lissettecarlr/ncmdump](https://github.com/lissettecarlr/ncmdump) - 将.ncm格式音频文件转换为flac格式，提供windows客户端和WEB两种使用方式。（Convert .ncm format audio files to flac format, providing two usage options: a Windows client and a web interface.）
+* [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+* [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
+* [leettools-dev/leettools](https://github.com/leettools-dev/leettools) - AI Search tools.
+* [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
+* [askui/vision-agent](https://github.com/askui/vision-agent) - Enable AI to control your desktop, mobile and HMI devices
+* [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+* [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
+* [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
+* [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
+* [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial) - Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
+* [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+* [atlas-comstock/NeteaseCloudMusicFlac](https://github.com/atlas-comstock/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
+* [apple/ml-ferret](https://github.com/apple/ml-ferret) -
+* [GAIR-NLP/PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World
+* [xlang-ai/aguvis](https://github.com/xlang-ai/aguvis) - \[ICML2025] Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+* [arvindrajan92/DTrOCR](https://github.com/arvindrajan92/DTrOCR) - A PyTorch implementation of DTrOCR: Decoder-only Transformer for Optical Character Recognition
+* [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
+* [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
+* [whotto/Video\_note\_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图
+* [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+* [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+* [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+* [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
+* [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+* [PallavAg/claude-computer-use-macos](https://github.com/PallavAg/claude-computer-use-macos) - MacOS Demo for Claude Computer Use
+* [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
+* [knowsuchagency/promptic](https://github.com/knowsuchagency/promptic) - 90% of what you need for LLM app development. Nothing you don't.
+* [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
+* [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
+* [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
+* [harleyszhang/llm\_note](https://github.com/harleyszhang/llm_note) - LLM notes, including model inference, transformer model structure, and llm framework code analysis notes.
+* [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
+* [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
+* [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
+* [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
+* [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* [tmplink/nsfw\_detector](https://github.com/tmplink/nsfw_detector) - Solution for checking file if  contain NSFW content.
+* [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+* [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+* [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
+* [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
+* [theredsix/cerebellum](https://github.com/theredsix/cerebellum) - Browser automation system that uses AI-driven planning to navigate web pages and perform goals.
+* [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+* [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
+* [anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human) - 一个超轻量级、可以在移动端实时运行的数字人模型
+* [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
+* [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+* [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
+* [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+* [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
+* [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) -
+* [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub\[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
+* [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
+* [rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan) - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
+* [DennisThink/awesome\_twitter\_CN](https://github.com/DennisThink/awesome_twitter_CN) - 值得关注的中文twitter用户
+* [linyuxuanlin/Wiki\_MkDocs](https://github.com/linyuxuanlin/Wiki_MkDocs) - 基于 MkDocs & Material theme 的个人知识库
+* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+* [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+* [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
+* [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+* [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+* [crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
+* [0xn0ne/sensitive-helper](https://github.com/0xn0ne/sensitive-helper) - 基于正则表达式的本地文件敏感信息数据挖掘助手。Regular Expression Based Data Mining Assistant for Local File Sensitive Information.
+* [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
+* [309892489/sensitive\_data\_discover](https://github.com/309892489/sensitive_data_discover) - 针对数据库的敏感数据检测脚本：扫描库、schema级别的表或视图的数据，发现其中的敏感字段。敏感类型包括姓名、电话、身份证号、电子邮箱、地址、银行账号。
+* [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+* [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
+* [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
+* [shiyybua/NER](https://github.com/shiyybua/NER) - 基于tensorflow深度学习的中文的命名实体识别
+* [worawit/MS17-010](https://github.com/worawit/MS17-010) - MS17-010
+* [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+* [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+* [ktbyers/netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
+* [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+* [Juniper/py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
+* [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+* [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+* [aryanbhajanka/Xenue-Bar](https://github.com/aryanbhajanka/Xenue-Bar) - Xenue bar is a menu bar for Windows inspired by MacOS for better accessibility features and aesthetics. See README.md for more information.
+* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+* [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+* [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+* [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+* [wang0618/mtag\_tool](https://github.com/wang0618/mtag_tool) - MP3 Tag编辑器，支持从网易云补全歌曲信息
+* [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
+* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+* [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+* [aerodynamics-py/WEATHER\_STATION\_PI](https://github.com/aerodynamics-py/WEATHER_STATION_PI) - A simple weater station
+* [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
+* [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+* [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
+* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
+* [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+* [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+* [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
+* [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
+* [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
+* [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+* [Sorosliu1029/Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro) - :metro: 即刻 Ⓙ SDK
+* [errord/chbook\_jtoh](https://github.com/errord/chbook_jtoh) - chrome bookmarks json to html
+* [H-T-H/Gemini-Telegram-Bot](https://github.com/H-T-H/Gemini-Telegram-Bot) - 用Telegram与Gemini API交互｜Interact with the Gemini API via Telegram.
+* [yihong0618/tg\_bot\_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
+* [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+* [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
+* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+* [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
+* [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
+* [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
+* [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+* [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
+* [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+* [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
+* [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
+* [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
+* [AutohomeRadar/Windows-Agent](https://github.com/AutohomeRadar/Windows-Agent) - Windows agent of Open-Falcon Monitor System
+* [jumpserver/applets](https://github.com/jumpserver/applets) - JumpServer Applet Demo Project
+* [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+* [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+* [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
+* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+* [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
+* [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
+* [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
+* [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+
 ## Shell
 
 * [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A  Magisk module that spoofs your device to Pixel 10 Pro
 * [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
 * [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
 * [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
-* [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 * [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 * [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta
 * [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
@@ -557,7 +715,6 @@
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 * [krishnarajvr/microservice-mono-gin-gorm](https://github.com/krishnarajvr/microservice-mono-gin-gorm) -
 * [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-* [LanceLRQ/helang-go](https://github.com/LanceLRQ/helang-go) - JUST A JOKE!!!! 🤪 Helang, the next generation CYBER programming language! 😎
 
 ## TypeScript
 
@@ -981,6 +1138,7 @@
 ## JavaScript
 
 * [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
+* [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [mhdawson/ai-tool-experimentation](https://github.com/mhdawson/ai-tool-experimentation) -
 * [VonChange/utao](https://github.com/VonChange/utao) - 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
@@ -1069,7 +1227,7 @@
 * [ewwink/android-udpxy](https://github.com/ewwink/android-udpxy) - Android library-project wrapper for UDPXY udp-to-http Proxy Server.
 * [weizn11/MS17010\_AllInOne](https://github.com/weizn11/MS17010_AllInOne) -
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-* [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+* [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) -
 * [LBCrion/sfwbar](https://github.com/LBCrion/sfwbar) - S\* Floating Window Bar
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
@@ -1112,164 +1270,6 @@
 * [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * [guozhigq/flutter\_v2ex](https://github.com/guozhigq/flutter_v2ex) - 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
-
-## Python
-
-* [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
-* [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
-* [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
-* [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
-* [rsanshierli/EasyBert](https://github.com/rsanshierli/EasyBert) - 基于Pytorch的Bert应用，包括命名实体识别、情感分析、文本分类以及文本相似度等
-* [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
-* [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-* [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
-* [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
-* [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-* [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-* [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-* [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
-* [NewAITees/ollama-MCP-server](https://github.com/NewAITees/ollama-MCP-server) -
-* [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
-* [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
-* [qiufengqijun/mini\_qwen](https://github.com/qiufengqijun/mini_qwen) - 这是一个从头训练大语言模型的项目，包括预训练、微调和直接偏好优化，模型拥有1B参数，支持中英文。
-* [ericzakariasson/uber-eats-mcp-server](https://github.com/ericzakariasson/uber-eats-mcp-server) -
-* [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - Knowledge Graph Generation from Any Text
-* [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
-* [lissettecarlr/ncmdump](https://github.com/lissettecarlr/ncmdump) - 将.ncm格式音频文件转换为flac格式，提供windows客户端和WEB两种使用方式。（Convert .ncm format audio files to flac format, providing two usage options: a Windows client and a web interface.）
-* [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
-* [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
-* [leettools-dev/leettools](https://github.com/leettools-dev/leettools) - AI Search tools.
-* [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
-* [askui/vision-agent](https://github.com/askui/vision-agent) - Enable AI to control your desktop, mobile and HMI devices
-* [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
-* [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
-* [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
-* [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
-* [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial) - Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
-* [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-* [atlas-comstock/NeteaseCloudMusicFlac](https://github.com/atlas-comstock/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
-* [apple/ml-ferret](https://github.com/apple/ml-ferret) -
-* [GAIR-NLP/PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World
-* [xlang-ai/aguvis](https://github.com/xlang-ai/aguvis) - \[ICML2025] Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
-* [arvindrajan92/DTrOCR](https://github.com/arvindrajan92/DTrOCR) - A PyTorch implementation of DTrOCR: Decoder-only Transformer for Optical Character Recognition
-* [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
-* [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
-* [whotto/Video\_note\_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图
-* [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-* [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
-* [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-* [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
-* [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-* [PallavAg/claude-computer-use-macos](https://github.com/PallavAg/claude-computer-use-macos) - MacOS Demo for Claude Computer Use
-* [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
-* [knowsuchagency/promptic](https://github.com/knowsuchagency/promptic) - 90% of what you need for LLM app development. Nothing you don't.
-* [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
-* [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-* [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
-* [harleyszhang/llm\_note](https://github.com/harleyszhang/llm_note) - LLM notes, including model inference, transformer model structure, and llm framework code analysis notes.
-* [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
-* [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
-* [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
-* [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
-* [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-* [tmplink/nsfw\_detector](https://github.com/tmplink/nsfw_detector) - Solution for checking file if  contain NSFW content.
-* [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-* [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
-* [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
-* [theredsix/cerebellum](https://github.com/theredsix/cerebellum) - Browser automation system that uses AI-driven planning to navigate web pages and perform goals.
-* [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-* [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
-* [anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human) - 一个超轻量级、可以在移动端实时运行的数字人模型
-* [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
-* [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
-* [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
-* [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
-* [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
-* [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) -
-* [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub\[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
-* [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-* [rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan) - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
-* [DennisThink/awesome\_twitter\_CN](https://github.com/DennisThink/awesome_twitter_CN) - 值得关注的中文twitter用户
-* [linyuxuanlin/Wiki\_MkDocs](https://github.com/linyuxuanlin/Wiki_MkDocs) - 基于 MkDocs & Material theme 的个人知识库
-* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-* [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
-* [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
-* [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-* [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-* [crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
-* [0xn0ne/sensitive-helper](https://github.com/0xn0ne/sensitive-helper) - 基于正则表达式的本地文件敏感信息数据挖掘助手。Regular Expression Based Data Mining Assistant for Local File Sensitive Information.
-* [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
-* [309892489/sensitive\_data\_discover](https://github.com/309892489/sensitive_data_discover) - 针对数据库的敏感数据检测脚本：扫描库、schema级别的表或视图的数据，发现其中的敏感字段。敏感类型包括姓名、电话、身份证号、电子邮箱、地址、银行账号。
-* [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-* [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
-* [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
-* [shiyybua/NER](https://github.com/shiyybua/NER) - 基于tensorflow深度学习的中文的命名实体识别
-* [worawit/MS17-010](https://github.com/worawit/MS17-010) - MS17-010
-* [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-* [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
-* [ktbyers/netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
-* [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-* [Juniper/py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
-* [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-* [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
-* [aryanbhajanka/Xenue-Bar](https://github.com/aryanbhajanka/Xenue-Bar) - Xenue bar is a menu bar for Windows inspired by MacOS for better accessibility features and aesthetics. See README.md for more information.
-* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-* [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-* [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-* [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-* [wang0618/mtag\_tool](https://github.com/wang0618/mtag_tool) - MP3 Tag编辑器，支持从网易云补全歌曲信息
-* [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
-* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-* [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
-* [aerodynamics-py/WEATHER\_STATION\_PI](https://github.com/aerodynamics-py/WEATHER_STATION_PI) - A simple weater station
-* [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-* [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-* [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-* [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
-* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
-* [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-* [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
-* [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-* [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-* [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
-* [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
-* [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-* [Sorosliu1029/Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro) - :metro: 即刻 Ⓙ SDK
-* [errord/chbook\_jtoh](https://github.com/errord/chbook_jtoh) - chrome bookmarks json to html
-* [H-T-H/Gemini-Telegram-Bot](https://github.com/H-T-H/Gemini-Telegram-Bot) - 用Telegram与Gemini API交互｜Interact with the Gemini API via Telegram.
-* [yihong0618/tg\_bot\_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
-* [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-* [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
-* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-* [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
-* [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-* [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
-* [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
-* [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
-* [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-* [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
-* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
-* [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
-* [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
-* [AutohomeRadar/Windows-Agent](https://github.com/AutohomeRadar/Windows-Agent) - Windows agent of Open-Falcon Monitor System
-* [jumpserver/applets](https://github.com/jumpserver/applets) - JumpServer Applet Demo Project
-* [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-* [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-* [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-* [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
-* [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
-* [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
-* [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 
 ## HTML
 
