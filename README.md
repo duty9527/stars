@@ -53,6 +53,7 @@
 * [Batchfile](#batchfile)
 * [Typst](#typst)
 * [AutoIt](#autoit)
+* [VBScript](#vbscript)
 * [Perl](#perl)
 * [Vim Script](#vim-script)
 * [Visual Basic .NET](#visual-basic-net)
@@ -1066,7 +1067,7 @@
 * [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 * [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 * [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
-* [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+* [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 * [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter) - Convert Lark Doc to Markdown
 * [RSSNext/Followise](https://github.com/RSSNext/Followise) -
 * [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
@@ -1212,7 +1213,6 @@
 * [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 * [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 * [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-* [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 
 ## JavaScript
 
@@ -1576,6 +1576,10 @@
 ## AutoIt
 
 * [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+
+## VBScript
+
+* [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Perl
 
