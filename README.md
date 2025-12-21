@@ -670,7 +670,7 @@
 
 ## Go
 
-* [guiyumin/vget](https://github.com/guiyumin/vget) - Versatile command-line toolkit for downloading audio, video, podcasts, pdf and more 多功能命令行下载工具，支持音频、视频、播客、 pdf等各种内容
+* [guiyumin/vget](https://github.com/guiyumin/vget) - Versatile downloader for audio, video, podcasts, PDFs and more. Available as CLI and Docker | 多功能下载工具，支持音视频、播客、PDF等，提供 CLI 和 Docker 两种方式
 * [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 * [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 * [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
