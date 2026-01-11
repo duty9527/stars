@@ -259,6 +259,7 @@
 * [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 * [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
+* [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) -
 * [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 * [luestr/ShuntRules](https://github.com/luestr/ShuntRules) - 更适合Loon和Clash的分流规则
 * [XGenerationLab/XiYan-SQL](https://github.com/XGenerationLab/XiYan-SQL) - A MULTI-GENERATOR ENSEMBLE FRAMEWORK FOR NATURAL LANGUAGE TO SQL
@@ -401,7 +402,6 @@
 * [unchainese/unchain](https://github.com/unchainese/unchain) - Unchain is a lightweight and easy-to-use proxy server designed to bypass network restrictions.
 * [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 * [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
-* [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 * [yarlson/ftl](https://github.com/yarlson/ftl) - FTL: faster than light deployment
 * [teilomillet/gollm](https://github.com/teilomillet/gollm) - Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
 * [woaijssss/tros](https://github.com/woaijssss/tros) - golang应用级OS web开发框架底库
