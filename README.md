@@ -463,7 +463,7 @@
 * [go-musicfox/netease-music](https://github.com/go-musicfox/netease-music) - go调用网易云音乐API
 * [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 * [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
-* [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
+* [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A Go package for media type and file extension detection, based on magic numbers
 * [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 * [go-pdf/fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
 * [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
