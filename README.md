@@ -70,7 +70,7 @@
 
 ## Shell
 
-* [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+* [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
 * [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A  Magisk module that spoofs your device to Pixel 10 Pro
 * [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
 * [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
