@@ -24,7 +24,6 @@
 * [Swift](#swift)
 * [miscellaneous](#miscellaneous)
 * [C](#c-2)
-* [Svelte](#svelte)
 * [Zig](#zig)
 * [Go](#go)
 * [CSS](#css)
@@ -38,6 +37,7 @@
 * [Haskell](#haskell)
 * [PowerShell](#powershell)
 * [Vue](#vue)
+* [Svelte](#svelte)
 * [Logos](#logos)
 * [TeX](#tex)
 * [Pascal](#pascal)
@@ -142,6 +142,7 @@
 * [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) - 将 钉钉机器人 / 钉钉 DEAP Agent 连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应
 * [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 * [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+* [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 * [nonbili/Nora](https://github.com/nonbili/Nora) - SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app. No ads.
 * [google/A2UI](https://github.com/google/A2UI) -
 * [xingrz/awsl](https://github.com/xingrz/awsl) - Auto AWSLing
@@ -497,7 +498,7 @@
 * [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 * [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
-* [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+* [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 * [huytd/tab-list-arc-browser](https://github.com/huytd/tab-list-arc-browser) - Tab List extension for Arc Browser
 * [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
@@ -994,11 +995,6 @@
 * [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 * [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
-
-## Svelte
-
-* [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
-* [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Zig
 
@@ -1500,6 +1496,10 @@
 * [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer session video player
 * [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+## Svelte
+
+* [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Logos
 
