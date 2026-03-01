@@ -378,7 +378,7 @@
 
 * [Dr-TSNG/NativeDetector](https://github.com/Dr-TSNG/NativeDetector) - Some Android environment detection examples
 * [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
-* [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+* [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - wooyun-legacy skill for claude code
 * [Xposed-Modules-Repo/com.houvven.impad](https://github.com/Xposed-Modules-Repo/com.houvven.impad) - I'm Pad
 * [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
@@ -1490,7 +1490,7 @@
 * [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 * [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
 * [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
-* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 * [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 * [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
 * [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer session video player
