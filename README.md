@@ -70,6 +70,7 @@
 
 ## Swift
 
+* [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
 * [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 * [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -117,6 +118,7 @@
 * [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 * [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 * [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 * [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 
@@ -371,7 +373,7 @@
 ## TypeScript
 
 * [OpenBMB/EdgeClaw](https://github.com/OpenBMB/EdgeClaw) - EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
-* [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+* [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 * [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - A modern full-stack blog CMS driven by Cloudflare. | 基于 Cloudflare 生态的全栈现代化博客 CMS。
 * [sachaa/openbrowserclaw](https://github.com/sachaa/openbrowserclaw) - Browser-native personal AI assistant. Zero infrastructure, the browser is the server.
@@ -1136,7 +1138,6 @@
 * [elza2/go-cyclic](https://github.com/elza2/go-cyclic) - Go 循环依赖检测工具.  import cycle not allowed. cyclic dependency detection tool. go-cyclic tool.
 * [JakeXu/aliyun-sms-sdk-golang](https://github.com/JakeXu/aliyun-sms-sdk-golang) - 基于HTTP协议的阿里云短信服务golang版本实现
 * [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-* [CyanAsterisk/FreeCar](https://github.com/CyanAsterisk/FreeCar) - Time-sharing car rental system suite based on CloudWeGo series framework
 
 ## JavaScript
 
@@ -1180,7 +1181,6 @@
 * [markdoc/docs](https://github.com/markdoc/docs) - Documentation site for Markdoc
 * [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式 / 原始格式的订阅链接转换为 sing-box 格式的订阅，用于 SFA
 * [chigozienri/browser-bounce](https://github.com/chigozienri/browser-bounce) - Experiment with multiple browser windows interacting
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [Tobi-davies/Gmail-Clone](https://github.com/Tobi-davies/Gmail-Clone) - A pixel perfect Gmail clone built with react, styled components for styling and redux for state management
 * [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
