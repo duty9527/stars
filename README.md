@@ -71,6 +71,8 @@
 
 ## Go
 
+* [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+* [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - Go bindings for libghostty-vt.
 * [montanaflynn/headless-terminal](https://github.com/montanaflynn/headless-terminal) - Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt
 * [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 * [grtsinry43/grtblog](https://github.com/grtsinry43/grtblog) - 不仅是博客，也是全新的内容基础设施。由 SvelteKit 与 Go 驱动，静态先行、实时交互的现代化博客系统
@@ -484,7 +486,6 @@
 * [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture
 * [LanceLRQ/helang-go](https://github.com/LanceLRQ/helang-go) - JUST A JOKE!!!! 🤪 Helang, the next generation CYBER programming language! 😎
 * [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
-* [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 
 ## Rust
 
@@ -657,7 +658,6 @@
 * [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
 * [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 * [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-* [tryigit/PlayIntegrityFix](https://github.com/tryigit/PlayIntegrityFix) - Google H\*ck is a module designed to bypass play integrity checks, especially for China Roms, and offers advanced configuration and development capabilities.
 * [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.
 * [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) -
 * [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
@@ -831,7 +831,6 @@
 * [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 * [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 * [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-* [byoungd/modern-vue-template](https://github.com/byoungd/modern-vue-template) - Modern Vue Stack 2022. Joyful development experience 🎉
 
 ## Python
 
@@ -842,6 +841,7 @@
 * [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 * [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 * [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
+* [tryigit/PlayIntegrityFix](https://github.com/tryigit/PlayIntegrityFix) - Google H\*ck is a module designed to bypass play integrity checks, especially for China Roms, and offers advanced configuration and development capabilities.
 * [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 * [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -1072,7 +1072,7 @@
 * [Xposed-Modules-Repo/com.fkzhang.wechatxposed](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed) - WeXposed （微X模块）
 * [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 * [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
-* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 * [shangguanhongxin/for-sing-box-and-surge](https://github.com/shangguanhongxin/for-sing-box-and-surge) - sing-box、surge等的自用规则,自娱自乐，改自blackmatrix7
 * [cstyan/adbDocumentation](https://github.com/cstyan/adbDocumentation) - Better documentation of the ADB protocol, specifically for USB uses.
 * [poochie89/SnipDo-Extensions](https://github.com/poochie89/SnipDo-Extensions) - SnipDo extensions and advanced guide
