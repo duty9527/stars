@@ -10,10 +10,10 @@
 
 ## Table of Contents
 
+* [TypeScript](#typescript)
 * [Swift](#swift)
 * [HTML](#html)
 * [Shell](#shell)
-* [TypeScript](#typescript)
 * [Rust](#rust)
 * [Kotlin](#kotlin)
 * [C](#c)
@@ -69,133 +69,9 @@
 * [V](#v)
 * [Thanks](#thanks)
 
-## Swift
-
-* [huberdf/FreeDisplay](https://github.com/huberdf/FreeDisplay) - Free & open-source alternative to BetterDisplay for macOS. DDC brightness/contrast control, HiDPI virtual displays, display arrangement, color profiles, auto brightness sync, keyboard brightness key interception with native OSD — all core BetterDisplay features, zero cost.
-* [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
-* [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
-* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
-* [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-* [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
-* [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
-* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
-* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-* [designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App) - Close your running apps easily. One click, and they're gone. Say Bye to the mess.
-* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-* [Lakr233/MobileTransfer](https://github.com/Lakr233/MobileTransfer) - Backup & restore iOS devices with advanced settings.
-* [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
-* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-* [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-* [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-* [musamatini/WarpKey](https://github.com/musamatini/WarpKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
-* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
-* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
-* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
-* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
-* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
-* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
-* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
-* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
-* [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
-* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
-* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
-* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
-* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
-* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-* [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-## HTML
-
-* [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
-* [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
-* [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
-* [feravolt/FDE.AI-docs](https://github.com/feravolt/FDE.AI-docs) - Various FDE.AI related texts
-* [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
-* [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
-* [xiongcccc/xiongcccc.github.io](https://github.com/xiongcccc/xiongcccc.github.io) -
-* [youngyt/LinuxOS\_Course](https://github.com/youngyt/LinuxOS_Course) - 《Linux操作系统》课程资料
-* [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
-* [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
-* [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-* [Guyungy/damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
-* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-* [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
-* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-* [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-* [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-* [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-* [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
-
-## Shell
-
-* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-* [fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms) - Magisk 模块，去除国行 GMS 某些限制
-* [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-* [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
-* [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
-* [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-* [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.
-* [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) -
-* [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
-* [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A Magisk module that spoofs your device to Pixel 10 Pro.
-* [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
-* [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
-* [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
-* [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
-* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
-* [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
-* [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
-* [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
-* [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
-* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
-* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
-* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
-* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
-* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
-* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
-* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
-* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
-* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
-* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
-* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
-
 ## TypeScript
 
+* [dododook/FlowZ](https://github.com/dododook/FlowZ) - 简洁现代的跨平台代理客户端，基于 sing-box 核心。
 * [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 * [ZacharyZcR/Prowl](https://github.com/ZacharyZcR/Prowl) - 综合安全靶场框架 - CTF / AWD / 红蓝对抗
 * [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
@@ -335,6 +211,131 @@
 * [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
 * [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 
+## Swift
+
+* [huberdf/FreeDisplay](https://github.com/huberdf/FreeDisplay) - Free & open-source alternative to BetterDisplay for macOS. DDC brightness/contrast control, HiDPI virtual displays, display arrangement, color profiles, auto brightness sync, keyboard brightness key interception with native OSD — all core BetterDisplay features, zero cost.
+* [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
+* [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
+* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
+* [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+* [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
+* [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
+* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
+* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+* [designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App) - Close your running apps easily. One click, and they're gone. Say Bye to the mess.
+* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+* [Lakr233/MobileTransfer](https://github.com/Lakr233/MobileTransfer) - Backup & restore iOS devices with advanced settings.
+* [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
+* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+* [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+* [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+* [musamatini/WarpKey](https://github.com/musamatini/WarpKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
+* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
+* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
+* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
+* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
+* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
+* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
+* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
+* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+* [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
+* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
+* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
+* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
+* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
+* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+* [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+## HTML
+
+* [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
+* [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+* [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
+* [feravolt/FDE.AI-docs](https://github.com/feravolt/FDE.AI-docs) - Various FDE.AI related texts
+* [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
+* [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+* [xiongcccc/xiongcccc.github.io](https://github.com/xiongcccc/xiongcccc.github.io) -
+* [youngyt/LinuxOS\_Course](https://github.com/youngyt/LinuxOS_Course) - 《Linux操作系统》课程资料
+* [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+* [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
+* [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+* [Guyungy/damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
+* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+* [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
+* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+* [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+* [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+* [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+* [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
+
+## Shell
+
+* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+* [fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms) - Magisk 模块，去除国行 GMS 某些限制
+* [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
+* [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
+* [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+* [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.
+* [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) -
+* [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+* [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A Magisk module that spoofs your device to Pixel 10 Pro.
+* [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
+* [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+* [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
+* [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
+* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
+* [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
+* [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
+* [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+* [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
+* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
+* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
+* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
+* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
+* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
+* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
+* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
+* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
+* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
+* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
+
 ## Rust
 
 * [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
@@ -411,7 +412,6 @@
 * [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 * [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## Kotlin
 
@@ -1368,7 +1368,7 @@
 * [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
 * [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+* [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 * [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 * [kern518/handy-translate](https://github.com/kern518/handy-translate) - 基于wails使用Go+React开发，这是一个简单-便捷的翻译工具>>This is a simple and convenient translation tool.
 * [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
