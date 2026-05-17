@@ -363,7 +363,7 @@
 * [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 * [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
-* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+* [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 * [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
 * [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -1022,7 +1022,7 @@
 * [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 * [0xrawsec/whids](https://github.com/0xrawsec/whids) - Open Source EDR for Windows
 * [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-* [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+* [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 * [ThePrimeagen/test-these-besties](https://github.com/ThePrimeagen/test-these-besties) -
 * [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 * [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
