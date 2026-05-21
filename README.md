@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Shell](#shell)
 * [JavaScript](#javascript)
 * [TypeScript](#typescript)
 * [Rust](#rust)
@@ -17,7 +18,6 @@
 * [Python](#python)
 * [Swift](#swift)
 * [HTML](#html)
-* [Shell](#shell)
 * [Kotlin](#kotlin)
 * [C](#c)
 * [Lua](#lua)
@@ -68,6 +68,51 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Shell
+
+* [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.
+* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+* [fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms) - Magisk 模块，去除国行 GMS 某些限制
+* [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
+* [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
+* [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+* [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.
+* [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) -
+* [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+* [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A Magisk module that spoofs your device to Pixel 10 Pro.
+* [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
+* [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+* [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
+* [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
+* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
+* [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
+* [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
+* [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+* [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
+* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
+* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
+* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
+* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
+* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
+* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
+* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
+* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
+* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
+* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
 
 ## JavaScript
 
@@ -163,7 +208,6 @@
 * [wexare-ai/openbrowserclaw](https://github.com/wexare-ai/openbrowserclaw) - Browser-native personal AI assistant. Zero infrastructure, the browser is the server.
 * [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 * [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
-* [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 * [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) - Official OpenClaw DingTalk channel plugin | 钉钉官方 OpenClaw 插件
 * [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 * [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -396,6 +440,7 @@
 * [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 * [tryigit/PlayIntegrityFix](https://github.com/tryigit/PlayIntegrityFix) - Google H\*ck is a module designed to bypass play integrity checks, especially for China Roms, and offers advanced configuration and development capabilities.
 * [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 * [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 * [openposter/OpenPoster](https://github.com/openposter/OpenPoster) - A collection of scripts to edit .ca files, all connected through a GUI powered by hope, dreams, and a bit of code.
@@ -638,50 +683,6 @@
 * [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 * [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
-
-## Shell
-
-* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-* [fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms) - Magisk 模块，去除国行 GMS 某些限制
-* [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-* [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
-* [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
-* [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-* [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.
-* [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) -
-* [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
-* [FeDeveloper95/Pixel-10-Pro-spoof-magisk-module](https://github.com/FeDeveloper95/Pixel-10-Pro-spoof-magisk-module) - A Magisk module that spoofs your device to Pixel 10 Pro.
-* [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) - Systemlessly replaces emoji font with iOS Emoji
-* [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
-* [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
-* [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
-* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
-* [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
-* [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
-* [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
-* [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
-* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
-* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
-* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
-* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
-* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
-* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
-* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
-* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
-* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
-* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
-* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
 
 ## Kotlin
 
@@ -1362,7 +1363,6 @@
 * [srinathh/gooxml](https://github.com/srinathh/gooxml) - Pure go library for creating Office Open/OOXML/ECMA-376 documents (.docx, .xlsx, .pptx)
 * [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
 * [lukasjarosch/go-docx](https://github.com/lukasjarosch/go-docx) - Replace placeholders inside docx documents with speed and confidence.
-* [gingfrederik/docx](https://github.com/gingfrederik/docx) - Simple pure Go (golang) library for creating DOCX file
 
 ## Java
 
