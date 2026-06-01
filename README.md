@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Go](#go)
 * [Rust](#rust)
 * [TypeScript](#typescript)
 * [miscellaneous](#miscellaneous)
@@ -22,7 +23,6 @@
 * [Lua](#lua)
 * [Zig](#zig)
 * [Java](#java)
-* [Go](#go)
 * [JavaScript](#javascript)
 * [PLSQL](#plsql)
 * [Dart](#dart)
@@ -68,6 +68,406 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Go
+
+* [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.
+* [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+* [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - \[Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty
+* [montanaflynn/headless-terminal](https://github.com/montanaflynn/headless-terminal) - Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt
+* [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+* [grtsinry43/grtblog](https://github.com/grtsinry43/grtblog) - 不仅是博客，也是全新的内容基础设施。由 SvelteKit 与 Go 驱动，静态先行、实时交互的现代化博客系统
+* [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
+* [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+* [guiyumin/vget](https://github.com/guiyumin/vget) - Versatile downloader for audio, video, podcasts, PDFs and more. Available as CLI and Docker | 多功能下载工具，支持音视频、播客、PDF等，提供 CLI 和 Docker 两种方式
+* [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+* [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
+* [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
+* [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
+* [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+* [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
+* [qi4L/qscan](https://github.com/qi4L/qscan) - Lightning-fast internal network scanner
+* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+* [UfukUstali/go-pty](https://github.com/UfukUstali/go-pty) - Terminal pty lib inspired by portable-pty
+* [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
+* [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+* [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool functions.
+* [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+* [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
+* [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
+* [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
+* [toheart/goanalysis](https://github.com/toheart/goanalysis) - go语言代码分析 工具
+* [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+* [chai2010/llmgo-book](https://github.com/chai2010/llmgo-book) -  :books: Go和大语言模型编程
+* [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
+* [circled-me/server](https://github.com/circled-me/server) - Video Calls, Chat, Photo and Sharing Community Server
+* [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
+* [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
+* [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+* [lifei6671/DouYinBot](https://github.com/lifei6671/DouYinBot) - 该项目仅自用，不提供抖音视频下载
+* [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+* [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
+* [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+* [chaunsin/netease-cloud-music](https://github.com/chaunsin/netease-cloud-music) - ✨ 网易云音乐 Golang 🎵
+* [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+* [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent) - OpenTelemetry Compile-Time Instrumentation for Golang
+* [unchainese/unchain](https://github.com/unchainese/unchain) - Unchain is a lightweight and easy-to-use proxy server designed to bypass network restrictions.
+* [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
+* [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
+* [yarlson/ftl](https://github.com/yarlson/ftl) - FTL: faster than light deployment
+* [teilomillet/gollm](https://github.com/teilomillet/gollm) - Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
+* [woaijssss/tros](https://github.com/woaijssss/tros) - golang应用级OS web开发框架底库
+* [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
+* [Juanfec4/velocity](https://github.com/Juanfec4/velocity) - A high-performance "Express-like" HTTP router for Go
+* [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+* [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+* [rsc/unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
+* [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+* [boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain) - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
+* [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+* [Mr-xn/sunlogin\_rce](https://github.com/Mr-xn/sunlogin_rce) - 向日葵 RCE
+* [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+* [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+* [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
+* [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+* [hunter-ji/go-gin-api-starter](https://github.com/hunter-ji/go-gin-api-starter) - 🚀 go-gin-api-starter is a powerful and flexible template for building RESTful APIs
+* [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
+* [go-hotfix/hotfix](https://github.com/go-hotfix/hotfix) - Runtime function hot-patching for Go applications
+* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+* [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg (This repository is no longer maintained)
+* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+* [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+* [bytedance/netcap](https://github.com/bytedance/netcap) -
+* [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+* [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+* [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+* [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
+* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
+* [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+* [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+* [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+* [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
+* [natefinch/npipe](https://github.com/natefinch/npipe) - A Windows named pipe implementation written in pure Go.
+* [gioui/gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
+* [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+* [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
+* [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
+* [antlabs/quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
+* [mefellows/gosh](https://github.com/mefellows/gosh) - Cross platform, interactive remote PowerShell runner (experimental but functional)
+* [KnicKnic/go-powershell](https://github.com/KnicKnic/go-powershell) - Hosting powershell sessions inside golang not using exec enabling bi directional communication
+* [TaurusOmar/psobf](https://github.com/TaurusOmar/psobf) - PowerShell Obfuscator
+* [unklnik/mr\_snuggles\_dungeon\_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr\_Snuggles\_Dungeon\_Adventure/
+* [devlights/goxcel](https://github.com/devlights/goxcel) - Goxcel is a library to operate MS Excel using go-ole library.
+* [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
+* [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
+* [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+* [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
+* [techknowlogick/xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler
+* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+* [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
+* [judwhite/go-svc](https://github.com/judwhite/go-svc) - Go Windows Service wrapper that plays nice with Linux.
+* [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+* [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
+* [go-gota/gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
+* [SagerNet/serenity](https://github.com/SagerNet/serenity) - The configuration generator for sing-box
+* [go-musicfox/netease-music](https://github.com/go-musicfox/netease-music) - go调用网易云音乐API
+* [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+* [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
+* [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A Go package for media type and file extension detection, based on magic numbers
+* [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
+* [go-pdf/fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
+* [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
+* [go-gorm/datatypes](https://github.com/go-gorm/datatypes) - GORM Customized Data Types Collection
+* [kilosonc/NCMconverter](https://github.com/kilosonc/NCMconverter) - NCMconverter将ncm文件转换为mp3或者flac文件
+* [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
+* [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+* [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+* [0xrawsec/whids](https://github.com/0xrawsec/whids) - Open Source EDR for Windows
+* [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+* [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+* [ThePrimeagen/test-these-besties](https://github.com/ThePrimeagen/test-these-besties) -
+* [voidint/g](https://github.com/voidint/g) - Golang Version Manager
+* [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
+* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
+* [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
+* [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
+* [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - Open source API testing tool. 开源接口调试、测试工具。Mock Server
+* [modernice/goes](https://github.com/modernice/goes) - goes is an event-sourcing framework for Go.
+* [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+* [OwO-Network/gDeepLX](https://github.com/OwO-Network/gDeepLX) - A Go library used for unlimited DeepL translation
+* [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go
+* [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
+* [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
+* [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
+* [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
+* [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
+* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+* [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
+* [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
+* [jkstack/agent-server](https://github.com/jkstack/agent-server) - jkstack agent统一管理服务
+* [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
+* [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+* [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
+* [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+* [antlabs/greatws](https://github.com/antlabs/greatws) - 100w连接仅需500-700MB内存，针对海量连接特别优化的websocket库(kqueue, epoll)，高性能，callback写法，在服务器cpu上有不俗表现 https://github.com/antlabs/greatws-example
+* [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+* [antlabs/timer](https://github.com/antlabs/timer) - High-performance timer implementation based on 5-level time wheel. 高性能定时器(5级时间轮，最小堆)\[从零实现]
+* [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+* [clbanning/mxj](https://github.com/clbanning/mxj) - Decode / encode XML to/from map\[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages.
+* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+* [maaslalani/glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line
+* [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+* [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
+* [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
+* [xtaci/gaio](https://github.com/xtaci/gaio) -  High-performance, minimalist async-io (proactor) networking for Golang.
+* [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
+* [6tail/lunar-go](https://github.com/6tail/lunar-go) - 日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
+* [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
+* [rodaine/table](https://github.com/rodaine/table) - Go CLI Table Generator
+* [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
+* [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+* [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
+* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
+* [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+* [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
+* [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+* [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs.
+* [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+* [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
+* [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
+* [ejoy/goscon](https://github.com/ejoy/goscon) - stable connection
+* [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
+* [gobwas/graceful](https://github.com/gobwas/graceful) - A library for graceful restarts in Go.
+* [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
+* [fantonglang/go-mobile-automation](https://github.com/fantonglang/go-mobile-automation) - 安卓自动化golang SDK，支持云手机，稳定高效且不强依赖ADB
+* [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
+* [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
+* [box-cli-maker/box-cli-maker](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal
+* [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+* [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+* [labstack/gommon](https://github.com/labstack/gommon) - Common packages for Go
+* [twgh/xcgui](https://github.com/twgh/xcgui) - 炫彩界面库. Go GUI library. Golang bindings for XCGUI, Windows GUI library, DirectUI design idea.
+* [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
+* [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+* [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
+* [micmonay/keybd\_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
+* [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
+* [minio/selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs
+* [sorcererxw/jikeview-bot](https://github.com/sorcererxw/jikeview-bot) -
+* [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
+* [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
+* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+* [lxn/win](https://github.com/lxn/win) - A Windows API wrapper package for the Go Programming Language
+* [AllenDang/w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
+* [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
+* [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
+* [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
+* [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
+* [auuunya/go-element](https://github.com/auuunya/go-element) - windows application ui element automation
+* [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
+* [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
+* [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
+* [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+* [kongyuebin1/dongfeng-pay](https://github.com/kongyuebin1/dongfeng-pay) - go，支付系统，聚合支付，四方支付，前后端齐全（管理后台，商户后台，代理后台，网关，代付，等）
+* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+* [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
+* [iamacarpet/go-win64api](https://github.com/iamacarpet/go-win64api) - Windows API wrappers for Go - useful for SysOps
+* [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
+* [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
+* [duolabmeng6/projection\_screen\_tv](https://github.com/duolabmeng6/projection_screen_tv) - Easily put the mp4 files on macos and window onto the TV to watch It's like casting a screen on a mobile phone.
+* [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
+* [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+* [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
+* [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
+* [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework
+* [ying32/govcl](https://github.com/ying32/govcl) -  Cross-platform Go/Golang GUI library.
+* [lxzan/gws](https://github.com/lxzan/gws) - simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket. keywords: ws, proxy, chat, go, golang...
+* [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
+* [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+* [otiai10/gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
+* [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
+* [UiPath/uipathcli](https://github.com/UiPath/uipathcli) - Command line interface to simplify, script and automate API calls for UiPath services
+* [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
+* [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+* [kevinburke/ssh\_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh\_config files
+* [derekparker/trie](https://github.com/derekparker/trie) - Data structure and relevant algorithms for extremely fast prefix/fuzzy string searching.
+* [braveghost/cyclone](https://github.com/braveghost/cyclone) - Registry based service monitoring
+* [NetEase-Media/easy-ngo](https://github.com/NetEase-Media/easy-ngo) - easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。
+* [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+* [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+* [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
+* [sajari/docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
+* [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
+* [golang-cz/devslog](https://github.com/golang-cz/devslog) - devslog - Go slog.Handler for development
+* [40a/go-powershell](https://github.com/40a/go-powershell) - Go wrapper for running PowerShell sessions
+* [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
+* [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
+* [capnspacehook/taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go
+* [rfyiamcool/go-netflow](https://github.com/rfyiamcool/go-netflow) - go netflow, capture process in/out traffic, similar to c Nethogs.
+* [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
+* [mackerelio/go-osstat](https://github.com/mackerelio/go-osstat) - OS system statistics library for Go
+* [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
+* [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
+* [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+* [amidaware/rmmagent](https://github.com/amidaware/rmmagent) - Tactical RMM Agent
+* [0xrawsec/gene](https://github.com/0xrawsec/gene) - Signature engine for all your logs
+* [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
+* [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+* [microsoft/go-winio](https://github.com/microsoft/go-winio) - Win32 IO-related utilities for Go
+* [linuxkit/virtsock](https://github.com/linuxkit/virtsock) - Go bindings for virtio and Hyper-V sockets
+* [dsyx/serialport-go](https://github.com/dsyx/serialport-go) - A Go package that allows you to easily access serial ports.
+* [tejaskumark/serial-port-websocket](https://github.com/tejaskumark/serial-port-websocket) - Serial Port over Websocket
+* [distributed/sers](https://github.com/distributed/sers) - Serial port access for the Go programming language.
+* [njcx/Artemis\_HIDS](https://github.com/njcx/Artemis_HIDS) - agent 部分使用go 开发而成，采用插件模式开发而成，配置部分以及agent存活使用etcd。
+* [0xrawsec/golang-evtx](https://github.com/0xrawsec/golang-evtx) -
+* [guyan0319/golang\_development\_notes](https://github.com/guyan0319/golang_development_notes) - golang development notes  go语言开发笔记
+* [reiver/go-telnet](https://github.com/reiver/go-telnet) - Package telnet provides TELNET and TELNETS client and server implementations, for the Go programming language, in a style similar to the "net/http" library that is part of the Go standard library, including support for "middleware"; TELNETS is secure TELNET, with the TELNET protocol over a secured TLS (or SSL) connection.
+* [goploy-devops/goploy-agent](https://github.com/goploy-devops/goploy-agent) - 服务器性能监控；An open-source and monitoring agent.
+* [dinp/agent](https://github.com/dinp/agent) - DINP中的Agent，部署在所有计算节点，收集节点运行时数据
+* [freedomkk-qfeng/windows-agent](https://github.com/freedomkk-qfeng/windows-agent) -
+* [yunnnnn1/shadow](https://github.com/yunnnnn1/shadow) - 基于golang实现的C/S架构agent,使用gRPC协议,实现执行远程命令就像在本地执行一样,能够保证命令一边执行,一边返回执行结果,支持远程shell与python命令执行，支持并发执行。
+* [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
+* [jacobsa/go-serial](https://github.com/jacobsa/go-serial) - A Go library for dealing with serial ports.
+* [yarox24/EvtxHussar](https://github.com/yarox24/EvtxHussar) - Initial triage of Windows Event logs
+* [didi/falcon-log-agent](https://github.com/didi/falcon-log-agent) - 用于监控系统的日志采集agent，可无缝对接open-falcon
+* [2igosha/igevtx](https://github.com/2igosha/igevtx) - Golang evtx parser
+* [dutchcoders/evtxparser](https://github.com/dutchcoders/evtxparser) - Evtxparser for Microsoft Evtx
+* [mitchellh/reflectwalk](https://github.com/mitchellh/reflectwalk) - reflectwalk is a Go library for "walking" complex structures, similar to walking a filesystem.
+* [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
+* [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+* [akrennmair/gopcap](https://github.com/akrennmair/gopcap) - A simple wrapper around libpcap for the Go programming language
+* [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+* [0x4D31/honeybits](https://github.com/0x4D31/honeybits) - A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots
+* [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
+* [notcomsed/udpovertcp](https://github.com/notcomsed/udpovertcp) - simple udp in tcp tunnel, udp over tcp, supported win 8.1 win10, Windows, Linux. tunnel udp packge over tcp stream connect written by GO.
+* [mdlayher/vsock](https://github.com/mdlayher/vsock) - Package vsock provides access to Linux VM sockets (AF\_VSOCK) for communication between a hypervisor and its virtual machines.  MIT Licensed.
+* [brave/viproxy](https://github.com/brave/viproxy) - Go TCP proxy library that translates between AF\_INET and AF\_VSOCK.
+* [elastic/beats](https://github.com/elastic/beats) - :tropical\_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
+* [Velocidex/evtx](https://github.com/Velocidex/evtx) - Golang Parser for Microsoft Event Logs
+* [petaki/probe](https://github.com/petaki/probe) - 🔎 A monitoring agent.
+* [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
+* [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+* [zubroide/go-api-boilerplate](https://github.com/zubroide/go-api-boilerplate) - Boilerplate for Golang API
+* [mh-cbon/go-msi](https://github.com/mh-cbon/go-msi) - Easy way to generate msi package for a Go project
+* [mojocn/felix](https://github.com/mojocn/felix) - A Friendly SSH Jumper Bastion Fortress Server
+* [sadensmol/article\_my\_clean\_architecture\_go\_application](https://github.com/sadensmol/article_my_clean_architecture_go_application) -
+* [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+* [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+* [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
+* [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
+* [hidu/mysql-schema-sync](https://github.com/hidu/mysql-schema-sync) - mysql表结构自动同步工具(目前只支持字段、索引的同步，分区等高级功能暂不支持)
+* [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+* [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
+* [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) - trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
+* [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
+* [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
+* [anhk/go-webRDP-demo](https://github.com/anhk/go-webRDP-demo) -
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+* [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
+* [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
+* [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+* [pubnative/mysqlproto-go](https://github.com/pubnative/mysqlproto-go) - A fast & heap friendly implementation of the MySQL protocol
+* [youngxhui/GinHello](https://github.com/youngxhui/GinHello) - Gin 学习示例代码
+* [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+* [gourouting/singo](https://github.com/gourouting/singo) - A simple Go web service starter for building RESTful APIs with Gin, GORM, Redis, sessions, i18n, and API tests.
+* [wuchihsu/go-ssh-web-client](https://github.com/wuchihsu/go-ssh-web-client) - A simple SSH web client using Go, WebSocket and Xterm.js.
+* [widaT/webssh](https://github.com/widaT/webssh) - 基于xterm.js和golang ssh库实现的web ssh 服务端，支持录像审计，和录像回看
+* [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
+* [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
+* [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+* [qifengzhang007/GinSkeleton](https://github.com/qifengzhang007/GinSkeleton) - 基于go语言gin框架封装的web项目骨架
+* [xpzouying/go-clean-arch](https://github.com/xpzouying/go-clean-arch) - Go Clean Architecture
+* [zxhjames/X-spreadsheet-online](https://github.com/zxhjames/X-spreadsheet-online) - 基于gin+excelize的在线excel表格，支持动态导出数据源数据✈️
+* [fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
+* [jefferyjob/go-easy-utils](https://github.com/jefferyjob/go-easy-utils) - Quick toolbox for common data processing developed by Go language。Go语言开发的常用数据处理的快捷工具箱。
+* [alicfeng/mysql\_markdown](https://github.com/alicfeng/mysql_markdown) - It can generate markdown structure documents of MySQL succinctly~
+* [wwt/guac](https://github.com/wwt/guac) - Apache Guacamole client ported to Go
+* [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
+* [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
+* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* [just-nibble/AutoBash-GUI](https://github.com/just-nibble/AutoBash-GUI) - A GUI tool to automate installation of linux software
+* [xxjwxc/ginrpc](https://github.com/xxjwxc/ginrpc) - gin auto binding,grpc, and annotated route,gin 注解路由, grpc,自动参数绑定工具
+* [rthornton128/goncurses](https://github.com/rthornton128/goncurses) - NCurses Library for Go
+* [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
+* [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
+* [sirodeneko/NeteaseCloudMusicApiWithGo](https://github.com/sirodeneko/NeteaseCloudMusicApiWithGo) - 网易云音乐api golang实现
+* [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+* [acheong08/ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy) - Simple Cloudflare bypass for ChatGPT
+* [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+* [duxweb/go-storage](https://github.com/duxweb/go-storage) - 💿 A simple repository based on the s3 protocol, supporting cos, oss, qiniu, obs, minio and other S3-compatible protocols.  基于 s3 协议的简单存储库，支持 阿里云、腾讯云、七牛云、华为云、minio 和其他 S3 兼容协议。
+* [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
+* [isxuelinme/poe\_unoffical\_api](https://github.com/isxuelinme/poe_unoffical_api) - the POE of Quora golang implement
+* [NullpointerW/golwpush](https://github.com/NullpointerW/golwpush) - A lightweight and high performance  push system implemented by golang
+* [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+* [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
+* [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
+* [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+* [valyala/fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
+* [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
+* [gookit/gcli](https://github.com/gookit/gcli) - 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
+* [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+* [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
+* [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
+* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+* [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
+* [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
+* [gookit/color](https://github.com/gookit/color) - 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
+* [desertbit/grumble](https://github.com/desertbit/grumble) - A powerful modern CLI and SHELL
+* [dtylman/gowd](https://github.com/dtylman/gowd) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)
+* [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
+* [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
+* [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
+* [golang/term](https://github.com/golang/term) - Go terminal and console support
+* [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+* [buger/goterm](https://github.com/buger/goterm) - Advanced terminal output in Go
+* [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+* [fasthttp/websocket](https://github.com/fasthttp/websocket) - WebSocket implementation for fasthttp.
+* [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+* [gowechat/example](https://github.com/gowechat/example) - 【例子】微信开发SDK(Wechat SDK For Golang)
+* [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+* [yongxinz/id-maker](https://github.com/yongxinz/id-maker) - Go 开发的一款分布式唯一 ID 生成系统
+* [douyu/jupiter-examples](https://github.com/douyu/jupiter-examples) - Examples of Jupiter.
+* [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
+* [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+* [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
+* [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
+* [elza2/go-cyclic](https://github.com/elza2/go-cyclic) - Go 循环依赖检测工具.  import cycle not allowed. cyclic dependency detection tool. go-cyclic tool.
+* [JakeXu/aliyun-sms-sdk-golang](https://github.com/JakeXu/aliyun-sms-sdk-golang) - 基于HTTP协议的阿里云短信服务golang版本实现
+* [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+* [CyanAsterisk/FreeCar](https://github.com/CyanAsterisk/FreeCar) - Time-sharing car rental system suite based on CloudWeGo series framework
+* [Q1mi/bubble](https://github.com/Q1mi/bubble) - a sample demo base on gin and gorm.
+* [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
+* [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
+* [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
+* [geekdex/gin-demo](https://github.com/geekdex/gin-demo) - 基于Gin+GORM框架的Restful API接口开发demo
+* [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态
+* [royalrick/weapp](https://github.com/royalrick/weapp) - 微信小程序服务端 SDK (for Golang)
+* [xmgtony/apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产就绪的api服务端(基于golang gin)
+* [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+* [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
+* [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
+* [gphper/ginadmin](https://github.com/gphper/ginadmin) - 基于Gin开发的后台脚手架，集成了、数据库操作、日志管理、权限分配管理、多模板页面、自动分页器、数据库迁移和填充、Docker集成部署等功能、静态资源打包
+* [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
+* [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
+* [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
+* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+* [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+* [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
+* [go-orz/captcha](https://github.com/go-orz/captcha) - a simple captcha
+* [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+* [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+* [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
+* [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
+* [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
 
 ## Rust
 
@@ -669,7 +1069,7 @@
 * [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 * [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 * [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install (formerly chatgpt-on-wechat).
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
 * [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
@@ -881,406 +1281,6 @@
 * [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-
-## Go
-
-* [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-* [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - \[Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty
-* [montanaflynn/headless-terminal](https://github.com/montanaflynn/headless-terminal) - Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt
-* [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
-* [grtsinry43/grtblog](https://github.com/grtsinry43/grtblog) - 不仅是博客，也是全新的内容基础设施。由 SvelteKit 与 Go 驱动，静态先行、实时交互的现代化博客系统
-* [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
-* [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-* [guiyumin/vget](https://github.com/guiyumin/vget) - Versatile downloader for audio, video, podcasts, PDFs and more. Available as CLI and Docker | 多功能下载工具，支持音视频、播客、PDF等，提供 CLI 和 Docker 两种方式
-* [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-* [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
-* [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
-* [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-* [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
-* [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
-* [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
-* [qi4L/qscan](https://github.com/qi4L/qscan) - Lightning-fast internal network scanner
-* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-* [UfukUstali/go-pty](https://github.com/UfukUstali/go-pty) - Terminal pty lib inspired by portable-pty
-* [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
-* [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
-* [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool functions.
-* [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-* [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-* [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-* [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
-* [toheart/goanalysis](https://github.com/toheart/goanalysis) - go语言代码分析 工具
-* [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-* [chai2010/llmgo-book](https://github.com/chai2010/llmgo-book) -  :books: Go和大语言模型编程
-* [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
-* [circled-me/server](https://github.com/circled-me/server) - Video Calls, Chat, Photo and Sharing Community Server
-* [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
-* [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
-* [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-* [lifei6671/DouYinBot](https://github.com/lifei6671/DouYinBot) - 该项目仅自用，不提供抖音视频下载
-* [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
-* [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
-* [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-* [chaunsin/netease-cloud-music](https://github.com/chaunsin/netease-cloud-music) - ✨ 网易云音乐 Golang 🎵
-* [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
-* [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent) - OpenTelemetry Compile-Time Instrumentation for Golang
-* [unchainese/unchain](https://github.com/unchainese/unchain) - Unchain is a lightweight and easy-to-use proxy server designed to bypass network restrictions.
-* [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-* [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
-* [yarlson/ftl](https://github.com/yarlson/ftl) - FTL: faster than light deployment
-* [teilomillet/gollm](https://github.com/teilomillet/gollm) - Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
-* [woaijssss/tros](https://github.com/woaijssss/tros) - golang应用级OS web开发框架底库
-* [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
-* [Juanfec4/velocity](https://github.com/Juanfec4/velocity) - A high-performance "Express-like" HTTP router for Go
-* [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-* [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-* [rsc/unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
-* [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
-* [boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain) - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
-* [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
-* [Mr-xn/sunlogin\_rce](https://github.com/Mr-xn/sunlogin_rce) - 向日葵 RCE
-* [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
-* [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
-* [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
-* [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-* [hunter-ji/go-gin-api-starter](https://github.com/hunter-ji/go-gin-api-starter) - 🚀 go-gin-api-starter is a powerful and flexible template for building RESTful APIs
-* [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
-* [go-hotfix/hotfix](https://github.com/go-hotfix/hotfix) - Runtime function hot-patching for Go applications
-* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-* [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg (This repository is no longer maintained)
-* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-* [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-* [bytedance/netcap](https://github.com/bytedance/netcap) -
-* [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
-* [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-* [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-* [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-* [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-* [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-* [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-* [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-* [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-* [natefinch/npipe](https://github.com/natefinch/npipe) - A Windows named pipe implementation written in pure Go.
-* [gioui/gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
-* [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-* [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
-* [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
-* [antlabs/quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
-* [mefellows/gosh](https://github.com/mefellows/gosh) - Cross platform, interactive remote PowerShell runner (experimental but functional)
-* [KnicKnic/go-powershell](https://github.com/KnicKnic/go-powershell) - Hosting powershell sessions inside golang not using exec enabling bi directional communication
-* [TaurusOmar/psobf](https://github.com/TaurusOmar/psobf) - PowerShell Obfuscator
-* [unklnik/mr\_snuggles\_dungeon\_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr\_Snuggles\_Dungeon\_Adventure/
-* [devlights/goxcel](https://github.com/devlights/goxcel) - Goxcel is a library to operate MS Excel using go-ole library.
-* [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
-* [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-* [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-* [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
-* [techknowlogick/xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler
-* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-* [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
-* [judwhite/go-svc](https://github.com/judwhite/go-svc) - Go Windows Service wrapper that plays nice with Linux.
-* [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-* [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
-* [go-gota/gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
-* [SagerNet/serenity](https://github.com/SagerNet/serenity) - The configuration generator for sing-box
-* [go-musicfox/netease-music](https://github.com/go-musicfox/netease-music) - go调用网易云音乐API
-* [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-* [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
-* [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A Go package for media type and file extension detection, based on magic numbers
-* [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
-* [go-pdf/fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
-* [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
-* [go-gorm/datatypes](https://github.com/go-gorm/datatypes) - GORM Customized Data Types Collection
-* [kilosonc/NCMconverter](https://github.com/kilosonc/NCMconverter) - NCMconverter将ncm文件转换为mp3或者flac文件
-* [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
-* [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-* [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-* [0xrawsec/whids](https://github.com/0xrawsec/whids) - Open Source EDR for Windows
-* [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-* [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
-* [ThePrimeagen/test-these-besties](https://github.com/ThePrimeagen/test-these-besties) -
-* [voidint/g](https://github.com/voidint/g) - Golang Version Manager
-* [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
-* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
-* [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
-* [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
-* [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - Open source API testing tool. 开源接口调试、测试工具。Mock Server
-* [modernice/goes](https://github.com/modernice/goes) - goes is an event-sourcing framework for Go.
-* [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-* [OwO-Network/gDeepLX](https://github.com/OwO-Network/gDeepLX) - A Go library used for unlimited DeepL translation
-* [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go
-* [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
-* [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
-* [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
-* [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
-* [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-* [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
-* [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-* [jkstack/agent-server](https://github.com/jkstack/agent-server) - jkstack agent统一管理服务
-* [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-* [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-* [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
-* [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-* [antlabs/greatws](https://github.com/antlabs/greatws) - 100w连接仅需500-700MB内存，针对海量连接特别优化的websocket库(kqueue, epoll)，高性能，callback写法，在服务器cpu上有不俗表现 https://github.com/antlabs/greatws-example
-* [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-* [antlabs/timer](https://github.com/antlabs/timer) - High-performance timer implementation based on 5-level time wheel. 高性能定时器(5级时间轮，最小堆)\[从零实现]
-* [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-* [clbanning/mxj](https://github.com/clbanning/mxj) - Decode / encode XML to/from map\[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages.
-* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-* [maaslalani/glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line
-* [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-* [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
-* [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
-* [xtaci/gaio](https://github.com/xtaci/gaio) -  High-performance, minimalist async-io (proactor) networking for Golang.
-* [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
-* [6tail/lunar-go](https://github.com/6tail/lunar-go) - 日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
-* [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-* [rodaine/table](https://github.com/rodaine/table) - Go CLI Table Generator
-* [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
-* [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-* [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
-* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
-* [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-* [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
-* [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-* [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs.
-* [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
-* [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
-* [ejoy/goscon](https://github.com/ejoy/goscon) - stable connection
-* [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
-* [gobwas/graceful](https://github.com/gobwas/graceful) - A library for graceful restarts in Go.
-* [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
-* [fantonglang/go-mobile-automation](https://github.com/fantonglang/go-mobile-automation) - 安卓自动化golang SDK，支持云手机，稳定高效且不强依赖ADB
-* [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
-* [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
-* [box-cli-maker/box-cli-maker](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal
-* [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
-* [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-* [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-* [labstack/gommon](https://github.com/labstack/gommon) - Common packages for Go
-* [twgh/xcgui](https://github.com/twgh/xcgui) - 炫彩界面库. Go GUI library. Golang bindings for XCGUI, Windows GUI library, DirectUI design idea.
-* [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
-* [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
-* [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
-* [micmonay/keybd\_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
-* [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
-* [minio/selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs
-* [sorcererxw/jikeview-bot](https://github.com/sorcererxw/jikeview-bot) -
-* [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
-* [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
-* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-* [lxn/win](https://github.com/lxn/win) - A Windows API wrapper package for the Go Programming Language
-* [AllenDang/w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
-* [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
-* [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
-* [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
-* [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
-* [auuunya/go-element](https://github.com/auuunya/go-element) - windows application ui element automation
-* [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
-* [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
-* [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
-* [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-* [kongyuebin1/dongfeng-pay](https://github.com/kongyuebin1/dongfeng-pay) - go，支付系统，聚合支付，四方支付，前后端齐全（管理后台，商户后台，代理后台，网关，代付，等）
-* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-* [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-* [iamacarpet/go-win64api](https://github.com/iamacarpet/go-win64api) - Windows API wrappers for Go - useful for SysOps
-* [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
-* [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
-* [duolabmeng6/projection\_screen\_tv](https://github.com/duolabmeng6/projection_screen_tv) - Easily put the mp4 files on macos and window onto the TV to watch It's like casting a screen on a mobile phone.
-* [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
-* [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-* [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
-* [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
-* [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework
-* [ying32/govcl](https://github.com/ying32/govcl) -  Cross-platform Go/Golang GUI library.
-* [lxzan/gws](https://github.com/lxzan/gws) - simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket. keywords: ws, proxy, chat, go, golang...
-* [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
-* [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-* [otiai10/gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
-* [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
-* [UiPath/uipathcli](https://github.com/UiPath/uipathcli) - Command line interface to simplify, script and automate API calls for UiPath services
-* [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
-* [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-* [kevinburke/ssh\_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh\_config files
-* [derekparker/trie](https://github.com/derekparker/trie) - Data structure and relevant algorithms for extremely fast prefix/fuzzy string searching.
-* [braveghost/cyclone](https://github.com/braveghost/cyclone) - Registry based service monitoring
-* [NetEase-Media/easy-ngo](https://github.com/NetEase-Media/easy-ngo) - easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。
-* [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-* [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
-* [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
-* [sajari/docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
-* [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
-* [golang-cz/devslog](https://github.com/golang-cz/devslog) - devslog - Go slog.Handler for development
-* [40a/go-powershell](https://github.com/40a/go-powershell) - Go wrapper for running PowerShell sessions
-* [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-* [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
-* [capnspacehook/taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go
-* [rfyiamcool/go-netflow](https://github.com/rfyiamcool/go-netflow) - go netflow, capture process in/out traffic, similar to c Nethogs.
-* [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
-* [mackerelio/go-osstat](https://github.com/mackerelio/go-osstat) - OS system statistics library for Go
-* [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
-* [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-* [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-* [amidaware/rmmagent](https://github.com/amidaware/rmmagent) - Tactical RMM Agent
-* [0xrawsec/gene](https://github.com/0xrawsec/gene) - Signature engine for all your logs
-* [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
-* [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-* [microsoft/go-winio](https://github.com/microsoft/go-winio) - Win32 IO-related utilities for Go
-* [linuxkit/virtsock](https://github.com/linuxkit/virtsock) - Go bindings for virtio and Hyper-V sockets
-* [dsyx/serialport-go](https://github.com/dsyx/serialport-go) - A Go package that allows you to easily access serial ports.
-* [tejaskumark/serial-port-websocket](https://github.com/tejaskumark/serial-port-websocket) - Serial Port over Websocket
-* [distributed/sers](https://github.com/distributed/sers) - Serial port access for the Go programming language.
-* [njcx/Artemis\_HIDS](https://github.com/njcx/Artemis_HIDS) - agent 部分使用go 开发而成，采用插件模式开发而成，配置部分以及agent存活使用etcd。
-* [0xrawsec/golang-evtx](https://github.com/0xrawsec/golang-evtx) -
-* [guyan0319/golang\_development\_notes](https://github.com/guyan0319/golang_development_notes) - golang development notes  go语言开发笔记
-* [reiver/go-telnet](https://github.com/reiver/go-telnet) - Package telnet provides TELNET and TELNETS client and server implementations, for the Go programming language, in a style similar to the "net/http" library that is part of the Go standard library, including support for "middleware"; TELNETS is secure TELNET, with the TELNET protocol over a secured TLS (or SSL) connection.
-* [goploy-devops/goploy-agent](https://github.com/goploy-devops/goploy-agent) - 服务器性能监控；An open-source and monitoring agent.
-* [dinp/agent](https://github.com/dinp/agent) - DINP中的Agent，部署在所有计算节点，收集节点运行时数据
-* [freedomkk-qfeng/windows-agent](https://github.com/freedomkk-qfeng/windows-agent) -
-* [yunnnnn1/shadow](https://github.com/yunnnnn1/shadow) - 基于golang实现的C/S架构agent,使用gRPC协议,实现执行远程命令就像在本地执行一样,能够保证命令一边执行,一边返回执行结果,支持远程shell与python命令执行，支持并发执行。
-* [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
-* [jacobsa/go-serial](https://github.com/jacobsa/go-serial) - A Go library for dealing with serial ports.
-* [yarox24/EvtxHussar](https://github.com/yarox24/EvtxHussar) - Initial triage of Windows Event logs
-* [didi/falcon-log-agent](https://github.com/didi/falcon-log-agent) - 用于监控系统的日志采集agent，可无缝对接open-falcon
-* [2igosha/igevtx](https://github.com/2igosha/igevtx) - Golang evtx parser
-* [dutchcoders/evtxparser](https://github.com/dutchcoders/evtxparser) - Evtxparser for Microsoft Evtx
-* [mitchellh/reflectwalk](https://github.com/mitchellh/reflectwalk) - reflectwalk is a Go library for "walking" complex structures, similar to walking a filesystem.
-* [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
-* [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-* [akrennmair/gopcap](https://github.com/akrennmair/gopcap) - A simple wrapper around libpcap for the Go programming language
-* [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
-* [0x4D31/honeybits](https://github.com/0x4D31/honeybits) - A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots
-* [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
-* [notcomsed/udpovertcp](https://github.com/notcomsed/udpovertcp) - simple udp in tcp tunnel, udp over tcp, supported win 8.1 win10, Windows, Linux. tunnel udp packge over tcp stream connect written by GO.
-* [mdlayher/vsock](https://github.com/mdlayher/vsock) - Package vsock provides access to Linux VM sockets (AF\_VSOCK) for communication between a hypervisor and its virtual machines.  MIT Licensed.
-* [brave/viproxy](https://github.com/brave/viproxy) - Go TCP proxy library that translates between AF\_INET and AF\_VSOCK.
-* [elastic/beats](https://github.com/elastic/beats) - :tropical\_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-* [Velocidex/evtx](https://github.com/Velocidex/evtx) - Golang Parser for Microsoft Event Logs
-* [petaki/probe](https://github.com/petaki/probe) - 🔎 A monitoring agent.
-* [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
-* [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-* [zubroide/go-api-boilerplate](https://github.com/zubroide/go-api-boilerplate) - Boilerplate for Golang API
-* [mh-cbon/go-msi](https://github.com/mh-cbon/go-msi) - Easy way to generate msi package for a Go project
-* [mojocn/felix](https://github.com/mojocn/felix) - A Friendly SSH Jumper Bastion Fortress Server
-* [sadensmol/article\_my\_clean\_architecture\_go\_application](https://github.com/sadensmol/article_my_clean_architecture_go_application) -
-* [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-* [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-* [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
-* [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
-* [hidu/mysql-schema-sync](https://github.com/hidu/mysql-schema-sync) - mysql表结构自动同步工具(目前只支持字段、索引的同步，分区等高级功能暂不支持)
-* [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-* [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
-* [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) - trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
-* [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
-* [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
-* [anhk/go-webRDP-demo](https://github.com/anhk/go-webRDP-demo) -
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-* [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
-* [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-* [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-* [pubnative/mysqlproto-go](https://github.com/pubnative/mysqlproto-go) - A fast & heap friendly implementation of the MySQL protocol
-* [youngxhui/GinHello](https://github.com/youngxhui/GinHello) - Gin 学习示例代码
-* [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-* [gourouting/singo](https://github.com/gourouting/singo) - Gin+Gorm开发Golang API快速开发脚手架
-* [wuchihsu/go-ssh-web-client](https://github.com/wuchihsu/go-ssh-web-client) - A simple SSH web client using Go, WebSocket and Xterm.js.
-* [widaT/webssh](https://github.com/widaT/webssh) - 基于xterm.js和golang ssh库实现的web ssh 服务端，支持录像审计，和录像回看
-* [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
-* [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
-* [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-* [qifengzhang007/GinSkeleton](https://github.com/qifengzhang007/GinSkeleton) - 基于go语言gin框架封装的web项目骨架
-* [xpzouying/go-clean-arch](https://github.com/xpzouying/go-clean-arch) - Go Clean Architecture
-* [zxhjames/X-spreadsheet-online](https://github.com/zxhjames/X-spreadsheet-online) - 基于gin+excelize的在线excel表格，支持动态导出数据源数据✈️
-* [fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
-* [jefferyjob/go-easy-utils](https://github.com/jefferyjob/go-easy-utils) - Quick toolbox for common data processing developed by Go language。Go语言开发的常用数据处理的快捷工具箱。
-* [alicfeng/mysql\_markdown](https://github.com/alicfeng/mysql_markdown) - It can generate markdown structure documents of MySQL succinctly~
-* [wwt/guac](https://github.com/wwt/guac) - Apache Guacamole client ported to Go
-* [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
-* [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
-* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-* [just-nibble/AutoBash-GUI](https://github.com/just-nibble/AutoBash-GUI) - A GUI tool to automate installation of linux software
-* [xxjwxc/ginrpc](https://github.com/xxjwxc/ginrpc) - gin auto binding,grpc, and annotated route,gin 注解路由, grpc,自动参数绑定工具
-* [rthornton128/goncurses](https://github.com/rthornton128/goncurses) - NCurses Library for Go
-* [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
-* [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
-* [sirodeneko/NeteaseCloudMusicApiWithGo](https://github.com/sirodeneko/NeteaseCloudMusicApiWithGo) - 网易云音乐api golang实现
-* [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-* [acheong08/ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy) - Simple Cloudflare bypass for ChatGPT
-* [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
-* [duxweb/go-storage](https://github.com/duxweb/go-storage) - 💿 A simple repository based on the s3 protocol, supporting cos, oss, qiniu, obs, minio and other S3-compatible protocols.  基于 s3 协议的简单存储库，支持 阿里云、腾讯云、七牛云、华为云、minio 和其他 S3 兼容协议。
-* [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
-* [isxuelinme/poe\_unoffical\_api](https://github.com/isxuelinme/poe_unoffical_api) - the POE of Quora golang implement
-* [NullpointerW/golwpush](https://github.com/NullpointerW/golwpush) - A lightweight and high performance  push system implemented by golang
-* [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-* [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
-* [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
-* [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-* [valyala/fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
-* [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
-* [gookit/gcli](https://github.com/gookit/gcli) - 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
-* [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-* [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
-* [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
-* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-* [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
-* [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
-* [gookit/color](https://github.com/gookit/color) - 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
-* [desertbit/grumble](https://github.com/desertbit/grumble) - A powerful modern CLI and SHELL
-* [dtylman/gowd](https://github.com/dtylman/gowd) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)
-* [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-* [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
-* [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
-* [golang/term](https://github.com/golang/term) - Go terminal and console support
-* [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-* [buger/goterm](https://github.com/buger/goterm) - Advanced terminal output in Go
-* [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-* [fasthttp/websocket](https://github.com/fasthttp/websocket) - WebSocket implementation for fasthttp.
-* [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-* [gowechat/example](https://github.com/gowechat/example) - 【例子】微信开发SDK(Wechat SDK For Golang)
-* [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-* [yongxinz/id-maker](https://github.com/yongxinz/id-maker) - Go 开发的一款分布式唯一 ID 生成系统
-* [douyu/jupiter-examples](https://github.com/douyu/jupiter-examples) - Examples of Jupiter.
-* [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
-* [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-* [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
-* [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
-* [elza2/go-cyclic](https://github.com/elza2/go-cyclic) - Go 循环依赖检测工具.  import cycle not allowed. cyclic dependency detection tool. go-cyclic tool.
-* [JakeXu/aliyun-sms-sdk-golang](https://github.com/JakeXu/aliyun-sms-sdk-golang) - 基于HTTP协议的阿里云短信服务golang版本实现
-* [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-* [CyanAsterisk/FreeCar](https://github.com/CyanAsterisk/FreeCar) - Time-sharing car rental system suite based on CloudWeGo series framework
-* [Q1mi/bubble](https://github.com/Q1mi/bubble) - a sample demo base on gin and gorm.
-* [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
-* [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
-* [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
-* [geekdex/gin-demo](https://github.com/geekdex/gin-demo) - 基于Gin+GORM框架的Restful API接口开发demo
-* [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态
-* [royalrick/weapp](https://github.com/royalrick/weapp) - 微信小程序服务端 SDK (for Golang)
-* [xmgtony/apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产就绪的api服务端(基于golang gin)
-* [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-* [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
-* [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-* [gphper/ginadmin](https://github.com/gphper/ginadmin) - 基于Gin开发的后台脚手架，集成了、数据库操作、日志管理、权限分配管理、多模板页面、自动分页器、数据库迁移和填充、Docker集成部署等功能、静态资源打包
-* [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
-* [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
-* [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
-* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
-* [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-* [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-* [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
-* [go-orz/captcha](https://github.com/go-orz/captcha) - a simple captcha
-* [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-* [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
-* [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
-* [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
-* [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
-* [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 
 ## JavaScript
 
