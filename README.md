@@ -72,16 +72,15 @@
 ## TypeScript
 
 * [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
-* [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
+* [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 * [nnecec/xb](https://github.com/nnecec/xb) - 🥷 xb - Redesign Weibo, like X but even better.  微博 Chrome 插件.
 * [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server.
 * [one-ea/Monolith](https://github.com/one-ea/Monolith) - ⚡ A premium serverless edge-native blog — Cloudflare Workers + Hono + React + pluggable storage adapters
 * [dododook/FlowZ](https://github.com/dododook/FlowZ) - 简洁现代的跨平台代理客户端，基于 sing-box 核心。
 * [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 * [ZacharyZcR/Prowl](https://github.com/ZacharyZcR/Prowl) - 综合安全靶场框架 - CTF / AWD / 红蓝对抗
-* [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
+* [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 * [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
-* [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 * [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -98,7 +97,7 @@
 * [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 * [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 * [nonbili/Nora](https://github.com/nonbili/Nora) - SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app. No ads.
-* [google/A2UI](https://github.com/google/A2UI) -
+* [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) -
 * [xingrz/awsl](https://github.com/xingrz/awsl) - Auto AWSLing
 * [vsme/chinese-days](https://github.com/vsme/chinese-days) - 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。
 * [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
@@ -219,6 +218,7 @@
 ## Go
 
 * [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.
+* [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - \[Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty
 * [montanaflynn/headless-terminal](https://github.com/montanaflynn/headless-terminal) - Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt
@@ -296,7 +296,7 @@
 * [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 * [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 * [natefinch/npipe](https://github.com/natefinch/npipe) - A Windows named pipe implementation written in pure Go.
 * [gioui/gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
@@ -1069,7 +1069,7 @@
 * [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 * [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 * [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 * [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
