@@ -273,7 +273,7 @@
 
 ## Go
 
-* [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.
+* [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.
 * [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - \[Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty
@@ -906,7 +906,7 @@
 * [daglaroglou/LimitlessPhotos](https://github.com/daglaroglou/LimitlessPhotos) - 🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.
 * [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 * [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
-* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、AnyTLS 、Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket），功能强大、配置灵活。
+* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess / VLESS + ws + tls 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA / SFM），无须域名、功能强大、配置灵活。
 * [hemashushu/docker-archlinux-gui](https://github.com/hemashushu/docker-archlinux-gui) - This tutorial introduces a method for running GUI applications directly in containers (such as Docker and Podman) without installing any additional software.
 * [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
 * [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
