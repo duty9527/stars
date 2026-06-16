@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Vue](#vue)
 * [TypeScript](#typescript)
 * [C#](#c)
 * [JavaScript](#javascript)
@@ -39,7 +40,6 @@
 * [Haskell](#haskell)
 * [Dockerfile](#dockerfile)
 * [PowerShell](#powershell)
-* [Vue](#vue)
 * [Svelte](#svelte)
 * [Logos](#logos)
 * [TeX](#tex)
@@ -68,6 +68,23 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Vue
+
+* [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+* [lvwzhen/medicine](https://github.com/lvwzhen/medicine) - 原研药列表
+* [seguinleo/Notida](https://github.com/seguinleo/Notida) - A fast, private and secure web notebook with Markdown/HTML/Math support. Encrypted notes with AES-256-GCM
+* [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+* [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+* [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
+* [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
+* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+* [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
+* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer session video player
+* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
+* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
 
 ## TypeScript
 
@@ -188,7 +205,6 @@
 * [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 * [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 * [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
 * [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -787,6 +803,7 @@
 * [ff522/dm-ticket](https://github.com/ff522/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
 * [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 * [oluceps/clash2sing-box](https://github.com/oluceps/clash2sing-box) - Convert clash client outbounds to sing-box format
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 * [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) - Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries.
 * [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP\[cluster]/RTSP/WebRTC\[whip/whep]/HTTP-FLV/HLS).🦀
 * [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -1155,7 +1172,6 @@
 * [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 * [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
 * [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 * [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 * [aerodynamics-py/WEATHER\_STATION\_PI](https://github.com/aerodynamics-py/WEATHER_STATION_PI) - A simple weater station
 * [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1188,6 +1204,7 @@
 * [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 * [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 * [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 * [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
 * [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
@@ -1281,7 +1298,6 @@
 * [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 * [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-* [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 ## Kotlin
 
@@ -1593,22 +1609,6 @@
 * [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
-
-## Vue
-
-* [lvwzhen/medicine](https://github.com/lvwzhen/medicine) - 原研药列表
-* [seguinleo/Notida](https://github.com/seguinleo/Notida) - A fast, private and secure web notebook with Markdown/HTML/Math support. Encrypted notes with AES-256-GCM
-* [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-* [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-* [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
-* [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
-* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
-* [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
-* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer session video player
-* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
-* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
 
 ## Svelte
 
